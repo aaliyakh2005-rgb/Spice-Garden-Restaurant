@@ -45,6 +45,14 @@ p {
   text-shadow: 1px 1px 1px #687451;
   font-size: 1rem;
 }
+footer {
+  background-color: #687451;
+  color: #f0e7c2;
+  font-size: 1.5rem;
+  height: 14.5vh;
+  font-weight: bold;
+  text-align: center;
+}
 @media(max-width: 900px) {
   .container {
     display: grid;
