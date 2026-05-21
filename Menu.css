@@ -21,7 +21,7 @@ h1 {
   text-shadow: 1px 2px 2px #f0e7c2;
 }
 .container {
-  height: 85.9vh;
+  height: 75vh;
   width: 99.7vw;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -30,8 +30,8 @@ h1 {
   text-align: center;
 }
 img {
-  height: 25vh;
-  width: 20vw;
+  height: 20vh;
+  width: 15vw;
   margin-top: 1rem;
   object-fit: cover;
   margin-bottom: 0;
