@@ -21,7 +21,7 @@ h1 {
   text-shadow: 1px 2px 2px #f0e7c2;
 }
 .container {
-  height: 75vh;
+  height: 70vh;
   width: 99.7vw;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
