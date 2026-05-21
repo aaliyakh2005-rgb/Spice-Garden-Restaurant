@@ -44,7 +44,7 @@ footer {
 @media (max-width: 900px) {
   .hero {
     height: 10vh;
-    line-height: 0.5rem;
+    line-height: 1rem;
   }
   footer {
     height: 15vh;
